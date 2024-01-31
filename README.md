@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @OleksandrHrechukhaaa
 - 👀 I’m interested in position DevOps engineer
-- 🌱 I’m currently learning Git, Docker, Jenkins and Ansible
-- 💞️ I’m work on the position "Thechnical support engineer L2"
 - 📫 How to reach me: 
 My email: oleksandr.hrechukhaaa@gmail.com
 
