@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OleksandrHrechukhaaa
-- 👀 I’m interested in position DevOps engineer
+- 👀 I'm moving towards a DevOps engineer position
 - 📫 How to reach me: 
 My email: oleksandr.hrechukhaaa@gmail.com
 
